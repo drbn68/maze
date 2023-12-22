@@ -1,0 +1,5 @@
+*.log
+node_modules/
+mi_archivo_secreto.txt
+Explicacion.odt
+envmaze/
